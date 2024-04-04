@@ -7,7 +7,8 @@
 [Live Demo Link](https://pranay020.github.io/Music-Web-App/) :point_left:
 
 Landing Page:
-<a href="#" rel="Landing Page">![Landing Page](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/2.png)</a>
+![Uploading Screenshot 2024-04-05 010926.png…]()
+
 
 
 Music List:
