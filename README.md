@@ -4,7 +4,7 @@
  
 ## Live Demo
 
-[Live Demo Link](https://samirpaulb.github.io/music) :point_left:
+[Live Demo Link](https://pranay020.github.io/Music-Web-App/) :point_left:
 
 Landing Page:
 <a href="#" rel="Landing Page">![Landing Page](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/2.png)</a>
