@@ -15,7 +15,10 @@ Landing Page:
 
 
 Music List:
-<a href="#" rel="Music List">![Music List](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/1.png)</a>
+<a href="#" rel="Music List">
+![Screenshot 2024-04-05 011210](https://github.com/pranay020/Music-Web-App/assets/140306607/77b16536-afbe-4b48-9018-799a5320163b)
+
+</a>
 
 
 Mobile View:
