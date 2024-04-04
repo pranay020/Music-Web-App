@@ -7,7 +7,7 @@
 [Live Demo Link](https://pranay020.github.io/Music-Web-App/) :point_left:
 
 Landing Page:
-<a href="#" rel="Landing Page">(
+<a href="#" rel="Landing Page">
 ![Screenshot 2024-04-05 010926](https://github.com/pranay020/Music-Web-App/assets/140306607/380f5960-6b7d-4fcf-ac95-87204bab6ca3)
 
 </a>
